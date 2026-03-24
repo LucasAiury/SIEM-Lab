@@ -18,3 +18,5 @@ O alerta em foco envolveu:
 ____________________________________________________________________________
 
 O objetivo é identificação de atividades suspeitas, análise inicial de alertas de segurança, desenvolver familiaridade com o MS Defender e criar uma base para resposta a incidentes em ambiente SIEM.
+
+[Setup do Ambiente](Setup.md)
