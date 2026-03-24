@@ -13,3 +13,5 @@ O objetivo é identificação de atividades suspeitas, análise inicial de alert
 [Setup do Ambiente](Setup.md)
 
 [Análise de Alerta](AlertAnalysis.md)
+
+[Resposta a Incidente](IncidentResponse.md)
