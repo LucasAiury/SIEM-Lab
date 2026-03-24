@@ -13,6 +13,7 @@ Objetivo
 - Análise inicial de alertas de segurança
 - Desenvolvimento de familiaridade com o Microsoft Defender
 - Criação de base para resposta a incidentes em ambiente SIEM
+____________________________________________________________________________
 
 [Setup do Ambiente](Setup.md)
 
