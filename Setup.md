@@ -1,4 +1,4 @@
-[Voltar ao README](README.MD)
+[Voltar ao README](README.md)
 1. Criação do ambiente no Microsoft Azure
    - Criação da conta
    - Acesso ao portal
