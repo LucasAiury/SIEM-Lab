@@ -10,11 +10,11 @@ Na aba Advanced Hunting, há mais informações sobre o alerta. Diferente da vis
 
 Na imagem, foi utilizada uma consulta simples (SecurityAlert) para retornar eventos relacionados ao alerta previamente analisado, incluindo tentativas de login suspeitas a partir de um mesmo endereço IP. Os resultados exibem informações relevantes como:
 
-Data e hora do evento (TimeGenerated)
-Nome do alerta (AlertName)
-Nível de severidade (AlertSeverity)
-Descrição da detecção
-Origem do provedor (Microsoft)
+- Data e hora do evento (TimeGenerated)
+- Nome do alerta (AlertName)
+- Nível de severidade (AlertSeverity)
+- Descrição da detecção
+- Origem do provedor (Microsoft)
 
 Esse tipo de análise permite validar o alerta inicial e expandir a investigação, identificando recorrência, múltiplos alvos e possíveis indicadores de ataque, como padrões compatíveis com password spraying.
 
