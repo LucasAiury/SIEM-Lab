@@ -19,10 +19,9 @@
 
 
 4. Ativação do Microsoft Defender
-    - Habilitação no workspace criado
     - Ativação do Microsoft Defender
-    - Defender ativado
     - Planos de segurança habilitados
+    - Integração com o workspace
     
 ![labSIEM3](https://github.com/user-attachments/assets/8c3e2561-ad8c-4d5b-81b9-2e7cac4778b5)
 
