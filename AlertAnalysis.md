@@ -6,7 +6,7 @@ No painel à direita, é possível visualizar o menu “Manage alert”, utiliza
 
 Na aba Advanced Hunting, há mais informações sobre o alerta. Diferente da visualização padrão de alertas, essa aba possibilita investigar padrões, relacionar eventos e identificar comportamentos suspeitos com maior precisão.
 
-[Na imagem](![labSIEM6](https://github.com/user-attachments/assets/ebc58959-9b8f-404d-aa67-1d1a3b30220e)) , foi utilizada uma consulta simples (SecurityAlert) para retornar eventos relacionados ao alerta previamente analisado, incluindo tentativas de login suspeitas a partir de um mesmo endereço IP. Os resultados exibem informações relevantes como:
+Na imagem, foi utilizada uma consulta simples (SecurityAlert) para retornar eventos relacionados ao alerta previamente analisado, incluindo tentativas de login suspeitas a partir de um mesmo endereço IP. Os resultados exibem informações relevantes como:
 
 Data e hora do evento (TimeGenerated)
 Nome do alerta (AlertName)
