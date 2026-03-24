@@ -19,3 +19,9 @@ Na imagem, foi utilizada uma consulta simples (SecurityAlert) para retornar even
 Esse tipo de análise permite validar o alerta inicial e expandir a investigação, identificando recorrência, múltiplos alvos e possíveis indicadores de ataque, como padrões compatíveis com password spraying.
 
 ![labSIEM6](https://github.com/user-attachments/assets/2340997f-7ec1-41c0-bd6d-9f1754f66649)
+
+Em foco, o menu específico sobre o alerta, que confirma um único IP sendo responsável por vários alertas;
+
+![labSIEM7](https://github.com/user-attachments/assets/5fa66325-ad26-4d5f-94f2-faeb75e4c05c)
+![labSIEM8](https://github.com/user-attachments/assets/b979e42e-75ed-4422-b4b5-92f3a4647880)
+![labSIEM9](https://github.com/user-attachments/assets/e7456ab2-1089-4e74-89b9-f59e697c9f78)
