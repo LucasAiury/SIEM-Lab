@@ -19,7 +19,6 @@
 
 
 4. Ativação do Microsoft Defender
-    - Ativação do Microsoft Defender
     - Planos de segurança habilitados
     - Integração com o workspace
     
