@@ -1,4 +1,5 @@
 [Voltar ao README](README.md)
+
 A imagem demonstra um alerta identificado no Microsoft Defender relacionado a tentativas suspeitas de autenticação, caracterizadas por múltiplos acessos a contas desativadas a partir de um mesmo endereço IP. Esse comportamento é compatível com técnicas de ataque como password spraying, indicando possível tentativa de intrusão.
 
 No painel à direita, é possível visualizar o menu “Manage alert”, utilizado para gerenciamento do alerta.
