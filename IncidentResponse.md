@@ -22,4 +22,4 @@ O comportamento indica tentativa automatizada de identificação de credenciais.
 - Monitorar novas tentativas provenientes do mesmo IP
   
 4. Contenção
-- Sugerido bloqueio do IP malicioso em nível de identidade (Conditional Access) ou endpoint
+- Bloqueio do IP malicioso em nível de identidade (Conditional Access) ou endpoint
